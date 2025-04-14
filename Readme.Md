@@ -29,7 +29,7 @@
 - Fork this repo
 - Clone repo
 ```sh
-git clone https://github.com/OnkarSagare27/employee-management-mysql.git
+git clone https://github.com/Satyamjha12/sql/employee-management-mysql.git
 ```
 - Configure stuff in ``config.json``
 ```json
